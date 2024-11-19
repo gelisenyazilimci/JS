@@ -92,10 +92,3 @@ if (userInput == 'admin') {
 ```
 `userInput` beklenmeyen bir veri tipi içeriyorsa hatalara yol açabilir.
 
----
-
-## Kaynaklar
-- [MDN Web Docs: Equality operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality)
-- JavaScript resmi dokümantasyonu
-
----
