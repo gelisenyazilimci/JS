@@ -1,4 +1,3 @@
-// Activating-Strict-Mode Turkce acikla
 // Strict mode, JavaScript kodunun daha sıkı hale getirilmesini sağlar.
 // Strict modu etkinleştirmek için kodun başına "use strict" yazmalısınız.
 `use strict`;
