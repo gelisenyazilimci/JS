@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 // const li =  document.createElement("li");
 // li.className = "item"; // Output: <li class="item"></li>
 // li.id = 'item-1'; // Output: <li class="item" id="item-1"></li>

@@ -1,4 +1,4 @@
-`use strict`;
+'use strict';
 
 let sonuc;
 const parent = document.querySelector(".parent");
